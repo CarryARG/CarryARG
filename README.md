@@ -7,39 +7,39 @@
 </div>
 
 
- <h1 align="center">🌌 Bienvenido a mi universo 🌌</h1>
+ <h1 align="center">🌌 Bienvenidos a mi repositorio 🌌</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/QbumCX9HFFDQA/giphy.gif" width="200">
 </p>
 
-<h2 align="center">👨‍🚀 Explorador de Datos 🚀</h2>
+<h2 align="center">🐳 Visualizador de Datos 🦅</h2>
 
 <p align="center">
-  Explorando las vastas galaxias de los datos con Python, SQL y Machine Learning.
-  <br>Me especializo en la creación de soluciones a través del análisis de datos y la implementación de modelos que buscan transformar datos en información útil.
+  Explorando lo que hay más alla de los paisajes de los datos con Python, SQL y Machine Learning.
+  <br>Me especializo en la creación de soluciones a través del análisis de datos, el diseño y la implementación de modelos para transformar datos en información útil.
 </p>
 
 ---
 
-### 🚀 Sobre mí
+### 😎 Sobre mí
 
 Soy un **científico de datos** con experiencia en el análisis de grandes volúmenes de información. Mi objetivo es traducir datos en insights valiosos, construyendo modelos que impacten positivamente en la toma de decisiones.
 
-- 🌌 **Áreas de especialización**:
+- 😎 **Áreas de especialización**:
   - Machine Learning (Supervisado)
   - Visualización de datos
   - Economia y Optimización de recursos
   - Modelos predictivos
   - Sustentabilidad y optimización ambiental en proyectos de transporte
 
-- 🛰️ **Tecnologías que uso**:
+- 🐴 **Tecnologías que uso**:
   - **Lenguajes**: Python, SQL
   - **Herramientas**: Jupyter, Streamlit, Apache Airflow, MinIO
   - **Bases de datos**: MySQL, Postgres
   - **Otros**: Docker, Git, Linux
 
-- 🌌 **Estoy trabajando en**:
+- 🐆 **Estoy trabajando en**:
   - Implementación de modelos de machine learning para predecir y optimizar la eficiencia operativa y sostenibilidad en flotas de transporte.
   - Proyectos interactivos de visualización de KPIs en tiempo real.
   - comienzos de proyecto sobre economia
@@ -48,10 +48,10 @@ Soy un **científico de datos** con experiencia en el análisis de grandes volú
 
 
 <!-- Tarjeta de estadísticas -->
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=David-I-X&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CarryARG&show_icons=true&theme=radical)
 
 <!-- Lenguajes más usados -->
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=David-I-X&layout=compact&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=CarryARG&layout=compact&theme=radical)
 
 
 
@@ -60,13 +60,10 @@ Soy un **científico de datos** con experiencia en el análisis de grandes volú
 ### 🛸 Conéctate conmigo
 
 <p align="center">
-  <a href="www.linkedin.com/in/david-aguirre-b05b1425a" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-carranza-abb678219" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/david.aguirre9/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%231DA1F2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/tu-perfil" target="_blank">
+  <a href="https://github.com/CarryARG" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -78,7 +75,7 @@ Soy un **científico de datos** con experiencia en el análisis de grandes volú
   <img src="https://github.com/user-attachments/assets/0d2dfc4d-33e5-4ea3-826c-7f782e9f72be" />
 </div>
 
-<h2 align="center">"Los datos son mi universo, y las soluciones son las estrellas que descubro"</h2>
+<h2 align="center">"Los datos son los territorios, y las soluciones son los paisajes que descubro"</h2>
 
 <!-- FOOTER -->
 <div align="center" width="100">
