@@ -1,10 +1,7 @@
 
 
 <!-- HEADER -->
-<div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:6d04bf,50:0d074e,100:010016&height=250&section=header&text=David%20(David-I-X)&fontSize=30&type=waving&fontColor=fefefe&animation=fadeIn&customColorList=ffffff:0.1,8e44ad:0.2&pattern=stars"
-  alt="header"/>
-</div>
+
 
 
  <h1 align="center">🌌 Bienvenidos a mi repositorio 🌌</h1>
